@@ -1,4 +1,4 @@
-# PTSS
+# Pairwise Triple Similarity Scores for Triple Embeddings
 This repository contains the data and code to support the experiments found in "Repurposing Knowledge Graph Embeddings for Triple Representation via Weak Supervision".
 
 
